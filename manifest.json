@@ -1,6 +1,6 @@
 {
   "name": "Straatwoordenboek Enhancement Suite",
-  "version": "1.0.01",
+  "version": "1.0.1",
   "homepage_url": "http://gvx.github.com/straatwoordenboek-enhancement-suite",
   "manifest_version": 2,
   "icons": {"128": "icon.png", "48": "icon48.png"},
